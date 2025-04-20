@@ -1,4 +1,3 @@
-
 ## Inventory
 
 🛠️ Instalasi & Setup
