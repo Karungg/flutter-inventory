@@ -1,16 +1,29 @@
-# inventory
 
-A new Flutter project.
+## Inventory
 
-## Getting Started
+🛠️ Instalasi & Setup
 
-This project is a starting point for a Flutter application.
+Ikuti langkah-langkah berikut untuk menjalankan proyek ini secara lokal:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone Repository
+```
+git clone https://github.com/Karungg/flutter-inventory.git
+cd flutter-inventory
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Pastikan Flutter Sudah Terinstal
+```
+flutter --version
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Jika belum terinstal, ikuti petunjuk resmi di https://flutter.dev/docs/get-started/install
+
+3. Install Dependencies
+```
+flutter pub get
+```
+
+4. Jalankan Aplikasi
+```
+flutter run
+```
