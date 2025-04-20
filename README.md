@@ -27,3 +27,5 @@ flutter pub get
 ```
 flutter run
 ```
+5. Hubungkan dengan backend
+Pastikan aplikasi ini terhubung dengan backend yang berada di <a href="https://github.com/Karungg/inventory">inventory</a>
